@@ -1,16 +1,17 @@
-### Hi there 👋
+![Title](./TitleImage.png)
+# Hi there! 👋
+I'm Xenorio, your friendly neighborhood developer from Germany!
 
-<!--
-**Xenorio/Xenorio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Most of my work is centered around backend JavaScript stuff. 
 
-Here are some ideas to get you started:
+## Contact
+All my contact information is available on https://xenorio.xyz/contact
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+You'll probably just wanna join my Discord server tho, that's available at https://discord.xenorio.xyz
+
+## Donate
+If you wanna support my work, you can do so on [LiberaPay](https://liberapay.com/Xenorio
+) or just directly on [PayPal](https://paypal.me/Xenorio).
+
+For other methods, just hit me up!
+
